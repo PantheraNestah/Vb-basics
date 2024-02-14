@@ -1,0 +1,13 @@
+C:\Users\hp\Documents\CS2.2 PROGRAMMING\Design Impl Comp App\Vb-basics\Introduction to VB document\Introduction to VB document\bin\Debug\Introduction to VB document.exe.config
+C:\Users\hp\Documents\CS2.2 PROGRAMMING\Design Impl Comp App\Vb-basics\Introduction to VB document\Introduction to VB document\bin\Debug\Introduction to VB document.exe
+C:\Users\hp\Documents\CS2.2 PROGRAMMING\Design Impl Comp App\Vb-basics\Introduction to VB document\Introduction to VB document\bin\Debug\Introduction to VB document.pdb
+C:\Users\hp\Documents\CS2.2 PROGRAMMING\Design Impl Comp App\Vb-basics\Introduction to VB document\Introduction to VB document\bin\Debug\Introduction to VB document.xml
+C:\Users\hp\Documents\CS2.2 PROGRAMMING\Design Impl Comp App\Vb-basics\Introduction to VB document\Introduction to VB document\obj\Debug\Introduction to VB document.vbproj.AssemblyReference.cache
+C:\Users\hp\Documents\CS2.2 PROGRAMMING\Design Impl Comp App\Vb-basics\Introduction to VB document\Introduction to VB document\obj\Debug\Introduction_to_VB_document.Form1.resources
+C:\Users\hp\Documents\CS2.2 PROGRAMMING\Design Impl Comp App\Vb-basics\Introduction to VB document\Introduction to VB document\obj\Debug\Introduction_to_VB_document.Form2.resources
+C:\Users\hp\Documents\CS2.2 PROGRAMMING\Design Impl Comp App\Vb-basics\Introduction to VB document\Introduction to VB document\obj\Debug\Introduction_to_VB_document.Resources.resources
+C:\Users\hp\Documents\CS2.2 PROGRAMMING\Design Impl Comp App\Vb-basics\Introduction to VB document\Introduction to VB document\obj\Debug\Introduction to VB document.vbproj.GenerateResource.cache
+C:\Users\hp\Documents\CS2.2 PROGRAMMING\Design Impl Comp App\Vb-basics\Introduction to VB document\Introduction to VB document\obj\Debug\Introduction to VB document.vbproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\CS2.2 PROGRAMMING\Design Impl Comp App\Vb-basics\Introduction to VB document\Introduction to VB document\obj\Debug\Introduction to VB document.exe
+C:\Users\hp\Documents\CS2.2 PROGRAMMING\Design Impl Comp App\Vb-basics\Introduction to VB document\Introduction to VB document\obj\Debug\Introduction to VB document.xml
+C:\Users\hp\Documents\CS2.2 PROGRAMMING\Design Impl Comp App\Vb-basics\Introduction to VB document\Introduction to VB document\obj\Debug\Introduction to VB document.pdb
