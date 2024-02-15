@@ -52,7 +52,7 @@ Partial Class Form1
         Me.Controls.Add(Me.Button2)
         Me.Controls.Add(Me.Button1)
         Me.Name = "Form1"
-        Me.Text = "Welcoming Form"
+        Me.Text = " Welcoming Form"
         Me.ResumeLayout(False)
 
     End Sub
