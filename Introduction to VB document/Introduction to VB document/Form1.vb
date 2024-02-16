@@ -11,6 +11,8 @@
 
     Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
         Dim toolTip As New ToolTip()
+        toolTip.SetToolTip(Button1, "Load Object Form")
+        toolTip.SetToolTip(Button2, "Close Form")
     End Sub
     Private Sub Form1_Click(sender As Object, e As EventArgs) Handles MyBase.Click
         Me.WindowState = FormWindowState.Maximized
